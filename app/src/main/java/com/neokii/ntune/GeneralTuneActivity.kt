@@ -37,6 +37,9 @@ class GeneralTuneActivity: BaseTuneActivity() {
         list.add(TuneItemInfo("steerActuatorDelay", json.getDouble("steerActuatorDelay").toFloat(),
             0.0f, 0.8f, 0.05f, 3))
 
+        list.add(TuneItemInfo("steerRatioScale", json.getDouble("steerRatioScale").toFloat(),
+            0.0f, 0.8f, 0.05f, 3))
+
         return list
     }
 }
