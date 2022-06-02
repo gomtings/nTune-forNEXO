@@ -35,6 +35,7 @@
     <string name="btn_move_to_right">"오른쪽 (+)"</string>
 
     <string name="general_use_live_sr">"고정값이 아닌 학습 steerRatio를 사용합니다."</string>
+    <string name="general_SR_Scale">"live_sr 의 sub 비율을 조절 합니다. sr = sr-(sr*SR_Scale),SR_Scale= 1% == 0.01 입니다."</string>
 
     <string name="conf_load_failed">"이온에서 설정파일을 불러오지 못하였습니다.
 최소 한번 판다와 연결이 되어야 합니다."</string>

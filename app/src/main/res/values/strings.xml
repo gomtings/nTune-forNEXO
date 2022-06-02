@@ -34,7 +34,7 @@
     <string name="btn_move_to_right">"Move to Right (+)"</string>
 
     <string name="general_use_live_sr">"Use the live steerRatio rather than a fixed value."</string>
-
+    <string name="general_SR_Scale">"Adjust the sub-ratio of live_sr. sr = sr-(sr*SR_Scale), SR_Scale == 1% == 0.01."</string>
 
     <string name="conf_load_failed">"The configuration file could not be loaded from EON.
 You must be connected to the panda at least once."</string>

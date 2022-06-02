@@ -11,9 +11,9 @@
       "type": "SINGLE",
       "filters": [],
       "attributes": [],
-      "versionCode": 1650,
-      "versionName": "1.6.5",
-      "outputFile": "nTune_forNEXO-1.6.5.apk"
+      "versionCode": 1660,
+      "versionName": "1.6.6",
+      "outputFile": "nTune_forNEXO-1.6.6.apk"
     }
   ],
   "elementType": "File"
