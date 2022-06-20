@@ -11,9 +11,9 @@
       "type": "SINGLE",
       "filters": [],
       "attributes": [],
-      "versionCode": 1660,
-      "versionName": "1.6.6-legacy-minSDK23",
-      "outputFile": "nTune_forNEXO-1.6.6-legacy-minSDK23.apk"
+      "versionCode": 1690,
+      "versionName": "1.6.8-legacy-minSDK23",
+      "outputFile": "nTune_forNEXO-1.6.9-legacy-minSDK23.apk"
     }
   ],
   "elementType": "File"
