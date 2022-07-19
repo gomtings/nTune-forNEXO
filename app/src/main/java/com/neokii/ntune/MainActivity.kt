@@ -53,10 +53,6 @@ class MainActivity : BaseActivity(), SshShell.OnSshListener
                 editHost.setText(it)
         }
 
-        btnConnectLqr.setOnClickListener {
-            handleConnect(LqrTuneActivity::class.java)
-        }
-
         btnConnectIndi.setOnClickListener {
             handleConnect(IndiTuneActivity::class.java)
         }
@@ -200,7 +196,6 @@ class MainActivity : BaseActivity(), SshShell.OnSshListener
     private fun updateControls(pending: Boolean)
     {
         btnGeneral.isEnabled = !pending
-        btnConnectLqr.isEnabled = !pending
         btnConnectIndi.isEnabled = !pending
         btnConnectTorque.isEnabled = !pending
         btnConnectScc.isEnabled = !pending
